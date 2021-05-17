@@ -8,7 +8,7 @@ Steps:
 
 1. create the screen
 2. create and move the paddle
-3. create another module
+3. create another paddle
 4. create the ball and make it move
 5. detect collision with the wall and bounce back
 6. detect collision with paddle

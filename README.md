@@ -24,3 +24,5 @@ paddle = [height = 100, width = 100, x_pos = 350, y_pos = 0]
 each key press should move the paddle by 20px up and down
 
 ball = [width = 20, height = 20, x_pos = 0, y_pos = 0]]
+
+<img src="pong.jpg" alt="pong game">
